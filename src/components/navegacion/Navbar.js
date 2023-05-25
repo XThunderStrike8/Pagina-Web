@@ -20,6 +20,11 @@ const navbar = () => {
                         <li className="nav-item">
                             <Link className="nav-link" to='/Login' style={{ color: '#0184a0' }} >Ingresar</Link>
                         </li>
+
+                        <li className="nav-item">
+                            <Link className="nav-link" to='/Documentacion' style={{ color: '#0184a0' }} >Documentacion</Link>
+                        </li>
+
                         <li className="nav-item">
                             <Link className="nav-link" to='/Contact' style={{ color: '#0184a0' }} >Contact</Link>
                         </li>

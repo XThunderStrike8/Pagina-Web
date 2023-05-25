@@ -1,0 +1,6 @@
+.bloque1 {
+    background-image: url('../images/Bloque1.jpg');
+    background-size: cover;
+    background-position: center;
+    /* Otras propiedades CSS opcionales */
+}

@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+.bg{
+  background-image: url(./components/images/Bloque1.jpg);
+  width: 200px;
+  height: 200px;
+  background-size: cover;
+}
